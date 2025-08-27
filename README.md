@@ -1,14 +1,14 @@
 # 🐢 Turtle Traffic Dodger Project
-A fast-paced arcade-style game built with Python’s `turtle` graphics library, where players navigate a turtle through relentless waves of traffic, testing their reflexes and precision.
+A fast paced arcade style game built with Python’s `turtle` graphics library, where players navigate a turtle through relentless waves of traffic, testing their reflexes and precision.
 
 ---
 
 ## 📖 Overview  
-The **Turtle Traffic Dodger Project** is a Python-based interactive game designed to simulate the thrill of navigating through an unpredictable and high-speed traffic environment. Developed using the `turtle` graphics module, this project merges **core programming principles** with **creative problem-solving** to create a fun yet technically insightful experience.  
+The **Turtle Traffic Dodger Project** is a Python based interactive game designed to simulate the thrill of navigating through an unpredictable and high speed traffic environment. Developed using the `turtle` graphics module, this project merges **core programming principles** with **creative problem solving** to create a fun yet technically insightful experience.  
 
-At its core, the player controls a turtle that must **strategically dodge moving cars** while progressing upward across the screen. As levels advance, the gameplay intensifies: cars accelerate, spawn density increases, and the difficulty curve grows sharper, demanding quick decision-making and flawless timing.  
+At its core, the player controls a turtle that must **strategically dodge moving cars** while progressing upward across the screen. As levels advance, the gameplay intensifies: cars accelerate, spawn density increases, and the difficulty curve grows sharper, demanding quick decision making and flawless timing.  
 
-This project not only demonstrates the **practical application of OOP (Object-Oriented Programming)** in Python but also introduces concepts such as **event-driven programming**, **modular design**, and **dynamic difficulty scaling**. It emphasizes how fundamental programming concepts can be combined to build visually interactive and challenging applications. And it's an excellent example of how python libraries can be leveraged to create polished, engaging, and replayable games while reinforcing computer science fundamentals.
+This project not only demonstrates the **practical application of OOP (Object Oriented Programming)** in Python but also introduces concepts such as **event driven programming**, **modular design**, and **dynamic difficulty scaling**. It emphasizes how fundamental programming concepts can be combined to build visually interactive and challenging applications. And it's an excellent example of how python libraries can be leveraged to create polished, engaging, and replayable games while reinforcing computer science fundamentals.
 
 ---
 
