@@ -156,13 +156,13 @@ At higher levels, cars appear **frequently and at lightning speeds**, pushing th
 
 ---
 
-> 🚀 **In summary:** As the levels climb, both the **speed** and the **number of cars** scale up dramatically, delivering a thrilling, fast-paced, and progressively tougher gameplay experience.
+> 🚀 **In summary:** As the levels climb, both the **speed** and the **number of cars** scale up dramatically, delivering a thrilling, fast paced, and progressively tougher gameplay experience.
 
 ---
 
 ## ✨ Key Highlights  
 
-- **🎮 Engaging Arcade-Style Gameplay** – Offers a thrilling reflex-based experience where the player must guide a turtle safely across a bustling roadway. The balance of **progressive speed increases** and **dynamic car spawning** ensures a fresh challenge every time.  
+- **🎮 Engaging Arcade Style Gameplay** – Offers a thrilling reflex based experience where the player must guide a turtle safely across a bustling roadway. The balance of **progressive speed increases** and **dynamic car spawning** ensures a fresh challenge every time.  
 
 - **📈 Progressive Difficulty Scaling** – Each successful crossing elevates the difficulty: cars move faster, spawn more frequently, and demand sharper reflexes. This adaptive curve guarantees that gameplay remains exciting, competitive, and rewarding over time.  
 
