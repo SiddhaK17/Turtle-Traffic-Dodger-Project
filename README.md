@@ -166,20 +166,20 @@ At higher levels, cars appear **frequently and at lightning speeds**, pushing th
 
 - **📈 Progressive Difficulty Scaling** – Each successful crossing elevates the difficulty: cars move faster, spawn more frequently, and demand sharper reflexes. This adaptive curve guarantees that gameplay remains exciting, competitive, and rewarding over time.  
 
-- **⚡ Optimized Rendering & Responsiveness** – Built using Python’s `turtle` graphics module, the game loop is carefully tuned with frame delays and optimized update cycles, delivering **fluid animations** and **lag-free responsiveness** even as complexity increases.  
+- **⚡ Optimized Rendering & Responsiveness** – Built using Python’s `turtle` graphics module, the game loop is carefully tuned with frame delays and optimized update cycles, delivering **fluid animations** and **lag free responsiveness** even as complexity increases.  
 
 - **🛠 Modular & Maintainable Architecture** – Cleanly separated into dedicated modules:  
   - `player.py` – Manages turtle movement and boundary logic.  
   - `car_manager.py` – Controls vehicle creation, positioning, and velocity scaling.  
-  - `scoreboard.py` – Handles level tracking, user feedback, and game-over display.  
+  - `scoreboard.py` – Handles level tracking, user feedback, and game over display.  
   - `main.py` – The central orchestration hub that integrates all game components.  
   This structured design simplifies debugging, enhances scalability, and makes the project easier to extend with new features.  
 
-- **🎯 Advanced Collision & Success Mechanics** – Implements precise collision detection between the player and vehicles, immediate game termination upon impact, and robust **finish-line recognition** that rewards successful crossings with progression.  
+- **🎯 Advanced Collision & Success Mechanics** – Implements precise collision detection between the player and vehicles, immediate game termination upon impact, and robust **finish line recognition** that rewards successful crossings with progression.  
 
-- **🎨 Minimalist but Functional UI** – Clear level indicators, a simple game-over message, and a focused visual design maintain immersion while emphasizing core gameplay without unnecessary distractions.  
+- **🎨 Minimalist but Functional UI** – Clear level indicators, a simple game over message, and a focused visual design maintain immersion while emphasizing core gameplay without unnecessary distractions.  
 
-- **🖥 Cross-Platform Portability** – Designed for Windows, macOS, and Linux environments with Python 3.x. Requires no external dependencies, making it lightweight and effortless to run on any system.  
+- **🖥 Cross Platform Portability** – Designed for Windows, macOS, and Linux environments with Python 3.x. Requires no external dependencies, making it lightweight and effortless to run on any system.  
 
 ---
 
