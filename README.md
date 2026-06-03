@@ -28,7 +28,8 @@ This project demonstrates a practical blend of Python fundamentals and intermedi
   - Increasing car speed with each completed level.  
   - Enhanced difficulty curve to ensure challenging yet engaging gameplay.  
 - 🧩 **Modular Code Architecture**: Each functionality (player, car manager, scoreboard) is isolated into separate modules for clarity, maintainability, and scalability.  
-- 🖥️ **Clean UI/UX with Turtle**: Designed to mimic a retro arcade feel using simple yet effective visuals.  
+- 🖥️ **Clean UI/UX with Turtle**: Designed to mimic a retro arcade feel using simple yet effective visuals.
+- 🧠 **Memory & Resource Management** – Off-screen game objects are automatically cleaned up to prevent **unnecessary memory usage**, maintain **consistent runtime performance**, and demonstrate practical **resource optimization techniques** commonly used in game development.
 
 > ✅ *This project is not only a fun gaming experience but also an excellent case study for strengthening Python OOP, event driven programming, and modular design principles.*  
 
@@ -125,8 +126,8 @@ turtle-traffic-dodger-project/
 ## 🎮 Sample Output  
 
 The game unfolds in stages, each level introducing **new challenges and higher intensity**. With every progression:  
-- 🚗 The **number of cars** increases, crowding the road  
-- ⚡ The **speed of cars** accelerates, demanding sharper reflexes  
+- 🚗 Cars are generated continuously at random positions, creating unpredictable traffic patterns.
+- ⚡ The **speed of cars** accelerates with every completed level, demanding sharper reflexes and better timing.
 - 🏆 Survival becomes harder, but more rewarding  
 
 This creates a **progressive difficulty curve** where the thrill never fades – instead, it grows with every level.  
@@ -136,21 +137,21 @@ This creates a **progressive difficulty curve** where the thrill never fades –
 ### 📸 Gameplay Previews  
 
 #### 🔹 Level 1 – Beginner Stage  
-At the start, the player faces **fewer cars** at a **slower pace**, making it easier to adapt to the controls.  
+At the start, the player faces **slower moving traffic**, making it easier to learn the controls and understand the gameplay mechanics.  
 ✨ Perfect for warming up and getting comfortable with the mechanics before the real chaos begins!  
 ![Level 1 Gameplay](level1.png)  
 
 ---
 
 #### 🔹 Level 2 – Intermediate Challenge  
-With progression, **more cars spawn** and **move faster**, demanding quicker reactions and careful timing.  
+With progression, **more cars spawn** and the cars begin moving **significantly faster**, requiring quicker reactions and more precise movement.
 ⚡ The action feels more alive as the player starts dodging cars at greater speed.  
 ![Level 2 Gameplay](level2.png)  
 
 ---
 
 #### 🔹 Level 3 – Advanced Difficulty  
-At higher levels, cars appear **frequently and at lightning speeds**, pushing the player’s focus and reflexes to the absolute limit.  
+At higher levels, cars appear **more frequently** and traffic moves at **much higher speeds**, pushing the player's focus, timing, and reflexes to the limit.
 🔥 Only the most alert players can survive these upcoming stages of rapid chaos.  
 ![Level 3 Gameplay](level3.png)  
 
@@ -179,7 +180,9 @@ At higher levels, cars appear **frequently and at lightning speeds**, pushing th
 
 - **🎨 Minimalist but Functional UI** – Clear level indicators, a simple game over message, and a focused visual design maintain immersion while emphasizing core gameplay without unnecessary distractions.  
 
-- **🖥 Cross Platform Portability** – Designed for Windows, macOS, and Linux environments with Python 3.x. Requires no external dependencies, making it lightweight and effortless to run on any system.  
+- **🖥 Cross Platform Portability** – Designed for Windows, macOS, and Linux environments with Python 3.x. Requires no external dependencies, making it lightweight and effortless to run on any system.
+
+- 🧹 **Efficient Object Management** – Vehicles that leave the visible game area are automatically removed from active memory, ensuring **smooth performance**, **reduced resource consumption**, and **efficient object lifecycle management** during extended gameplay sessions. 
 
 ---
 
